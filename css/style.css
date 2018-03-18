@@ -1,0 +1,46 @@
+html{
+background:url("../images/elephant.jpg") no-repeat center center fixed;
+-webkit-background-size:cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.row{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.col30{
+	width:30%;
+	float: left;
+
+}
+
+.col70{
+	width:68%;
+	float: left;
+}
+.clear{
+	clear:both;
+	margin-bottom: 20px;
+}
+h1 {
+  color: black;
+}
+h2 {
+  color: black;
+  font-style: italic;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+
+.image{ 
+	width: 50%
+	height:auto;
+}
